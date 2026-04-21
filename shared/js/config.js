@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://quizly.api.rucel-tsafack.de";
+const API_BASE_URL = "https://quizly.api.rucel-tsafack.de/";
 
 const LOGIN_URL = "login/";
 const REGISTER_URL = "register/";
